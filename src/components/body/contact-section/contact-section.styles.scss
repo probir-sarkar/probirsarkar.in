@@ -1,0 +1,23 @@
+.contact-section {
+  background-image: url("./bg-dots.png");
+  .container {
+    margin-bottom: -10rem;
+    .form-div {
+      // shadow
+      box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    }
+  }
+  .form-control {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid #000;
+    background-color: transparent;
+    box-shadow: none;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    &:focus {
+      box-shadow: none;
+      border-bottom: 1px solid #000;
+    }
+  }
+}

@@ -1,0 +1,62 @@
+// import custom scss
+@import "../../custom.scss";
+
+@include media-breakpoint-up(lg) {
+  #main-nav {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    .navbar {
+      .container-fluid {
+        .navbar-collapse {
+          display: flex !important;
+          justify-content: flex-end;
+          .navbar-nav {
+            .nav-a {
+              padding-right: $spacer;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@include media-breakpoint-down(lg) {
+  #main-nav {
+    .navbar {
+      .container-fluid {
+        .navbar-collapse {
+          .navbar-nav {
+            .nav-a {
+              text-align: center;
+              padding: $spacer * 0.5;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+// fade in animation
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+// fade out animation
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+.fade-out {
+  animation: fadeOut 0.5s ease-in-out;
+}

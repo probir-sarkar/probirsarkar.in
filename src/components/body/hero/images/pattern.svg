@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1920" height="1080" preserveAspectRatio="none" viewBox="0 0 1920 1080">
+    <g mask="url(&quot;#SvgjsMask1017&quot;)" fill="none">
+        <rect width="1920" height="1080" x="0" y="0" fill="#0e2a47"></rect>
+        <path d="M1208.42 621.18L1224.49 621.18L1224.49 643.15L1208.42 643.15z" stroke="#037b0b"></path>
+        <path d="M1471.65 422.15 a63.14 63.14 0 1 0 126.28 0 a63.14 63.14 0 1 0 -126.28 0z" stroke="#037b0b"></path>
+        <path d="M159.87 1016.37L245.37 1016.37L245.37 1028.68L159.87 1028.68z" fill="#037b0b"></path>
+        <path d="M1643.12 762.18L1657.72 762.18L1657.72 776.78L1643.12 776.78z" stroke="#e73635"></path>
+        <path d="M497.51 1006.59L597.07 1006.59L597.07 1029.68L497.51 1029.68z" stroke="#e73635"></path>
+        <path d="M465.31 985.45 a69.53 69.53 0 1 0 139.06 0 a69.53 69.53 0 1 0 -139.06 0z" stroke="#e73635"></path>
+        <path d="M1690.62 639.62L1736.92 639.62L1736.92 685.92L1690.62 685.92z" fill="#d3b714"></path>
+        <path d="M599.85 829.29L646.57 829.29L646.57 876.01L599.85 876.01z" stroke="#037b0b"></path>
+        <path d="M1127.97 743.44L1171.19 743.44L1171.19 786.66L1127.97 786.66z" fill="#037b0b"></path>
+        <path d="M41.08 1052.88a59.07 59.07 0 1 0-78.66-88.14z" stroke="#d3b714"></path>
+        <path d="M1294.55 610.84a107.86 107.86 0 1 0 199.78 81.39z" fill="#d3b714"></path>
+        <path d="M1024.69 584.57L1106.1 584.57L1106.1 665.98L1024.69 665.98z" stroke="#e73635"></path>
+        <path d="M1062.86 957.95a67.57 67.57 0 1 0-48.82 126.02z" stroke="#037b0b"></path>
+        <path d="M1456.52 319.44L1473.74 319.44L1473.74 374.97L1456.52 374.97z" stroke="#d3b714"></path>
+        <path d="M40.35 1049.98L80.42 1049.98L80.42 1099.32L40.35 1099.32z" stroke="#037b0b"></path>
+        <path d="M542.1 12.93a84.3 84.3 0 1 0 168.34 9.4z" stroke="#e73635"></path>
+        <path d="M1807.4 363.94a100.7 100.7 0 1 0-132.44 151.73z" fill="#e73635"></path>
+        <path d="M1381.12 397.85L1400.41 397.85L1400.41 472.79L1381.12 472.79z" fill="#037b0b"></path>
+        <path d="M959.06 879.43 a8.15 8.15 0 1 0 16.3 0 a8.15 8.15 0 1 0 -16.3 0z" fill="#e73635"></path>
+        <path d="M1891.99 226.89a69.21 69.21 0 1 0-138.37-3.35z" fill="#037b0b"></path>
+        <path d="M573.23 347.25L612.05 347.25L612.05 386.07L573.23 386.07z" stroke="#d3b714"></path>
+        <path d="M810.3 445.06a23.69 23.69 0 1 0-24.62 40.48z" stroke="#d3b714"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1017">
+            <rect width="1920" height="1080" fill="#ffffff"></rect>
+        </mask>
+    </defs>
+</svg>

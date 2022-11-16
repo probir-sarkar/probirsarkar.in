@@ -1,0 +1,43 @@
+.hero-area {
+  background: url("./images/hero-bg-min.jpg");
+  background-size: cover;
+
+  position: relative;
+  .hero-container {
+    height: 100vh;
+    @media screen and (max-width: 768px) {
+      height: 50vh;
+    }
+    .hero-row {
+      z-index: 5;
+    }
+    .title-text {
+      font-size: 6rem;
+      font-weight: 800;
+      margin-bottom: 2rem;
+      // neon text shadow
+      text-shadow: 0 0 10px #4717f6, 0 0 20px #4717f6, 0 0 30px #4717f6;
+      @media screen and (max-width: 768px) {
+        font-size: 3rem;
+        text-shadow: 0 0 50px #4717f6;
+      }
+    }
+    .Typewriter {
+      font-size: 4rem;
+      font-weight: 600;
+      margin-bottom: 2rem;
+      @media screen and (max-width: 768px) {
+        font-size: 2rem;
+      }
+    }
+  }
+  .hero-graphics {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    // background svg
+    background-size: contain;
+  }
+}
